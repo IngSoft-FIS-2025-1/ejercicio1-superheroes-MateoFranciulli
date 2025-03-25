@@ -18,6 +18,8 @@ Abrir una nueva terminal de comandos en Visual Studio Code y clonar este reposit
 git clone <url git-superheroes-USERNAME>
 cd git-superheroes-USERNAME
 code .
+
+Cambios
 ```
 -----
 
